@@ -1,0 +1,30 @@
+2025-09-18 22:02:30,877 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-18 22:02:31,771 - ERROR - Tweepy error: 401 Unauthorized
+32 - Could not authenticate you.
+2025-09-18 22:59:15,880 - INFO - Fetching tweets for query: iphone lang:en -RT
+2025-09-18 22:59:16,420 - ERROR - Tweepy error: 401 Unauthorized
+32 - Could not authenticate you.
+2025-09-18 23:02:15,295 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-18 23:02:15,650 - ERROR - Tweepy error: 401 Unauthorized
+32 - Could not authenticate you.
+2025-09-18 23:06:52,858 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-18 23:06:53,172 - ERROR - Tweepy error: 401 Unauthorized
+32 - Could not authenticate you.
+2025-09-18 23:15:45,648 - INFO - Fetching tweets for query: Tesla lang:en -RT
+2025-09-18 23:15:46,411 - ERROR - Tweepy error: 401 Unauthorized
+32 - Could not authenticate you.
+2025-09-18 23:23:51,119 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-18 23:23:51,934 - ERROR - Tweepy error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-09-19 08:58:13,303 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-19 08:58:14,036 - ERROR - Tweepy error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-09-20 19:55:19,156 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-20 19:55:19,691 - ERROR - Tweepy error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-09-20 20:19:22,336 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-20 20:19:22,831 - ERROR - Tweepy error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-09-20 20:40:47,682 - INFO - Fetching tweets for query: Nike lang:en -RT
+2025-09-20 20:40:48,242 - ERROR - Tweepy error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product

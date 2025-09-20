@@ -1,0 +1,9 @@
+tweepy==4.14.0
+vaderSentiment==3.3.2
+pandas==2.2.2
+nltk==3.8.1
+streamlit==1.38.0
+plotly==5.22.0
+python-dotenv==1.0.1
+emoji==2.12.1
+request 
